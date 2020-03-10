@@ -1,3 +1,3 @@
 spring:
   application:
-    name: springcloud-config-test
+    name: springcloud-config-test-again
